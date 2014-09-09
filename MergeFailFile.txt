@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the local version.
+=======
+This is the Git version
+>>>>>>> d8e87557baf4c44c828eecd7832743b2429d9ed6
